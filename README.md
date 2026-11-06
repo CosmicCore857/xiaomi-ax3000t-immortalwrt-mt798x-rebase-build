@@ -2,10 +2,10 @@
 
 ## Project Overview  
 
-This project utilizes GitHub Actions to compile [https://github.com/hanwckf/immortalwrt-mt798x](https://github.com/chasey-dev/immortalwrt-mt798x-rebase)firmware. 
+This project utilizes GitHub Actions to compile [chasey-dev's immortalwrt](https://github.com/chasey-dev/immortalwrt-mt798x-rebase)firmware. 
 It is primarily configured for building the Xiaomi AX3000T router firmware, providing a convenient firmware building process.  
 
-本项目利用 GitHub Actions 编译 [https://github.com/hanwckf/immortalwrt-mt798x](https://github.com/chasey-dev/immortalwrt-mt798x-rebase) 固件。 
+本项目利用 GitHub Actions 编译 [chasey-dev's immortalwrt](https://github.com/chasey-dev/immortalwrt-mt798x-rebase) 固件。 
 其主要配置用于构建小米 AX3000T 路由器固件，提供便捷的固件构建过程。
 
 ## Default Configuration  
